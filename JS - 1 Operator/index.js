@@ -6,9 +6,21 @@
 
 // Tambah
 
-let x = 10;
-let y = 11;
+let a = 10;
+let b = 11;
 
-x += y;
+a += b;
 
-console.log(x);
+console.log(a);
+
+// End Tambah;
+// Kurang
+
+let c = 10;
+let d = 11;
+
+c -= d;
+
+console.log(c);
+
+// End Kurang
